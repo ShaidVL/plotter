@@ -1,4 +1,7 @@
-# position
+# Plotter
+
+Отрисовка пути перемещения передатчика по данным от трех приемников.
+
 
 ## Project setup
 ```
@@ -20,5 +23,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
